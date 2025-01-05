@@ -17,8 +17,9 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kshitijbudholiya/TicTacToe-Using-SDL2.git
+   mkdir tictac
    cd tictac
+   git clone https://github.com/Kshitijbudholiya/TicTacToe-Using-SDL2.git
    ```
 
 2. Make sure the required libraries (`SDL2` and `SDL2_ttf`) are properly installed and set up.
